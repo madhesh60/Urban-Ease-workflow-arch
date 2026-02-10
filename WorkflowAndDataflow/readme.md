@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     subgraph User Interaction [Kiosk Frontend - Touch + Voice]
         A[User Approaches Kiosk] --> B[Select Language / Start Voice Mode]
@@ -37,3 +38,5 @@ flowchart TD
     style J fill:#ff9,stroke:#333
     style M fill:#f66,stroke:#333,color:white
     style Q fill:#9cf,stroke:#333
+
+```
